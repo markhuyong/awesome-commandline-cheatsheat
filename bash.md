@@ -7,13 +7,13 @@
 | `CTRL+W` `ALT+D`  | Delete from cursor to start/end of word (whole word if at the boundary)                                      |
 | `CTRL+Y`          | Paste word or text that was cut using one of the deletion shortcuts (such as the one above) after the cursor |
 | `CTRL+XX`         | Move between start of command line and current cursor position (and back again)                              |
-| `ALT+B` `ALT+F`    | Move backward/forward one word (or go to start of word the cursor is currently on)                           |
+| `ALT+B` `ALT+F`   | Move backward/forward one word (or go to start of word the cursor is currently on)                           |
 | `ALT+C`           | Capitalize to end of word starting at cursor (whole word if cursor is at the beginning of word)              |
 | `ALT+U`           | Make uppercase from cursor to end of word                                                                    |
 | `ALT+L`           | Make lowercase from cursor to end of word                                                                    |
 | `ALT+T`           | Swap current word with previous                                                                              |
-| `CTRL+F` `CTRL+B`  | Move forward/backward one character                                                                          |
-| `CTRL+D` `CTRL+H`  | Delete character after/before under cursor                                                                   |
+| `CTRL+F` `CTRL+B` | Move forward/backward one character                                                                          |
+| `CTRL+D` `CTRL+H` | Delete character after/before under cursor                                                                   |
 | `CTRL+T`          | Swap character under cursor with the previous one                                                            |
 
 ### Command Recall Shortcuts
